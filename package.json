@@ -1,0 +1,20 @@
+{
+  "name": "canvas-mock",
+  "version": "0.0.0",
+  "description": "This can be used instead of node-canvas to simulate the existance of canvas.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Cristy94/canvas-mock.git"
+  },
+  "keywords": [
+    "canvas",
+    "node-canvas",
+    "phaser"
+  ],
+  "author": "Cristian Buleandra <buleandra_cristian@yahoo.com> (http://tips4design.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cristy94/canvas-mock/issues"
+  }
+}
